@@ -1,12 +1,11 @@
 <h1 align="center">Hangman Lite</h1>
-<img align="center" src="https://user-images.githubusercontent.com/76618468/186234501-5f94fd58-971a-498c-a095-36d333c0a5fa.jpg">
+<img align="center" src="https://user-images.githubusercontent.com/76618468/187656424-875e09db-d2ff-4910-8bde-f38c5149abd3.jpg">
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/187279721-8e096393-8155-46cd-91c9-996e254651e0.jpg">
 
 <h3>Hangman Lite :</h3>
 
 Hello, this simple console project you have seen is a hangman game, by looking at this project you can improve yourself on issues such as list random or conditions.
-
 
 ```bash
   eg: ***********
