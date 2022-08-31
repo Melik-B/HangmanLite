@@ -49,6 +49,6 @@ Hello, this simple console project you have seen is a hangman game, by looking a
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Hangman Lite](https://github.com/Melik-B/HangmanLite)
 
 <p align="right">-Melik Baykal</p>
