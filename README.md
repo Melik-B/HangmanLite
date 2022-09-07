@@ -51,4 +51,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Hangman Lite](https://github.com/Melik-B/HangmanLite)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
